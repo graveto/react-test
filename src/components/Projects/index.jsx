@@ -1,5 +1,5 @@
 import data from "../../assets/data/data";
-import image1 from "/images/image1.jpeg";
+//import image1 from "/images/image1.jpeg";
 
 export default function Projects() {
   console.log(data);
